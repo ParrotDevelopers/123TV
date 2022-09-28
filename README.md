@@ -19,12 +19,6 @@ npm run start
 ```
 Then open ```http://ip:port/playlist.m3u```  
 
-### M3U
-Create user in Admin CP
-```
-http://ip:port/username/password/playlist.m3u
-```
-
 ## License
 
 [MIT](https://mit-license.org/)
